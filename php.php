@@ -1,3 +1,4 @@
+<!-- Logica de programacion -->
 <!-- PHP -->
 <?php
 $edad = 20;
