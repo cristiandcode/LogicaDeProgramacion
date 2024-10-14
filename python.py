@@ -60,3 +60,18 @@ array = [1,2,3,4,5]
 
 print("Primer elemento: ", array [0]) # 1
 print("Segundo elemento: ", array [1]) # 2
+
+
+# Ejercicio grados Fahrenheit a Celsius.
+
+# 1-Recibir la temperatura en grados Fahrenheit que necesita ser convertida
+
+temperatura_fahrenheit = float(input("Ingresá la temperatura que se desea convertir: "))
+
+# Aplicar la fórmula para convertir el dato ingresado a Celsius
+
+temperatura_celsius = (temperatura_fahrenheit -32) * (5/9)
+
+# 3. Mostrar la temperatura convertira a grados Celsius
+
+print(f"La temperatura en grados Celsius es: ${temperatura_celsius}")

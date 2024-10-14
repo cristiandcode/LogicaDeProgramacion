@@ -64,3 +64,19 @@ let array = [1,2,3,4,5];
 // Acceso a los elementos
 console.log("Primer elemento", array[0]); // 1 
 console.log("Segundo elemento", array[1]); // 2
+
+
+
+// Ejercicio grados Fahrenheit a Celsius.
+
+// 1-Recibir la temperatura en grados Fahrenheit que necesita ser convertida
+
+const temperatura_fahrenheit = parseFloat(prompt("Ingresá la temperatura que se desea convertir: "));
+
+// Aplicar la fórmula para convertir el dato ingresado a Celsius
+
+temperatura_celsius = (temperatura_fahrenheit -32) * (5/9);
+
+// 3. Mostrar la temperatura convertira a grados Celsius
+
+console.log(`La temperatura en grados Celsius es: ${temperatura_celsius}`);
