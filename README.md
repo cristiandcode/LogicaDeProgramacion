@@ -1,4 +1,4 @@
-# LOGICA DE PROGRAMACION (En desarrollo actualmente)
+# LOGICA DE PROGRAMACION
 
 ## Teoria
 
